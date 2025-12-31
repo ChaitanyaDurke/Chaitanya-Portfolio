@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for visiting my portfolio! Feel free to explore my work and reach out if you'd like to connect or collaborate.
->>>>>>> master
+
